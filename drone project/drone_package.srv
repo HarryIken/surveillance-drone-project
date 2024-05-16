@@ -1,0 +1,4 @@
+# drone_package.srv
+---
+bool success
+sensor_msgs/Image image
